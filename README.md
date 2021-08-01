@@ -1,6 +1,6 @@
 # **Python-for-Data-Science**
 
-## *In notes* :
+## ***In notes*** :
 ```
 1. Python Fundamentals
 2. NumPy Library
